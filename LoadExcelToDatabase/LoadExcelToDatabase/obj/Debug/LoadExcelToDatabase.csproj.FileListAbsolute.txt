@@ -1,0 +1,6 @@
+c:\users\dagamboape\documents\visual studio 2013\Projects\LoadExcelToDatabase\LoadExcelToDatabase\bin\Debug\LoadExcelToDatabase.exe.config
+c:\users\dagamboape\documents\visual studio 2013\Projects\LoadExcelToDatabase\LoadExcelToDatabase\obj\Debug\LoadExcelToDatabase.csprojResolveAssemblyReference.cache
+c:\users\dagamboape\documents\visual studio 2013\Projects\LoadExcelToDatabase\LoadExcelToDatabase\bin\Debug\LoadExcelToDatabase.exe
+c:\users\dagamboape\documents\visual studio 2013\Projects\LoadExcelToDatabase\LoadExcelToDatabase\bin\Debug\LoadExcelToDatabase.pdb
+c:\users\dagamboape\documents\visual studio 2013\Projects\LoadExcelToDatabase\LoadExcelToDatabase\obj\Debug\LoadExcelToDatabase.exe
+c:\users\dagamboape\documents\visual studio 2013\Projects\LoadExcelToDatabase\LoadExcelToDatabase\obj\Debug\LoadExcelToDatabase.pdb
