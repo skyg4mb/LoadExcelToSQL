@@ -15,7 +15,7 @@ namespace LoadExcelToDatabase
         static void Main(string[] args)
         {
             //Prodimiento que carga la informacion de chat web
-            CargueABaseDeDatos(@"\\koral01\ReportesET\Encuetas_IVR\Calidad_ChatWeb", "Encuestas_Chat_Web", "TEMP_ENCUESTAS_CHAT_WEB", "HISTORICO_CARGUE_CHATWEB", "PA_CargueChatWeb", "Encuestas Chat");
+            CargueABaseDeDatos(@"Directorio", "Tabla", "Tabla Temporal", "TablaHIstorica", "postejecucion", "nombre proceso");
            
         }
 
